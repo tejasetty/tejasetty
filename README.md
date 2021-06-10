@@ -1,4 +1,4 @@
-
+ Hello there, , 𝐟𝐞𝐥𝐥𝐨𝐰 Java { 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜} ; 👋  <br/>
  [![MasterHead](https://github.com/tejasetty/tejasetty/blob/main/banner.png)](https://github.com/tejasetty)
  
  <p align="center">
@@ -43,7 +43,7 @@
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/piyushsuthar/github-readme-quotes)
 
-<br/><br/>
+<br/>
 <p align = "center">
   <img src = "https://github-profile-trophy.vercel.app/?username=tejasetty&theme=gruvbox">
 </p>
